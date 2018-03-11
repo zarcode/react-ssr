@@ -1,7 +1,12 @@
 # react-ssr
 Server Side Rendering React/Redux Simple Example
 
-`npm install`
+## Features
+- server side rendered react
+- redux managed app state
+- webpack configuration for both client and server side
 
-`npm run start-dev`
+## Run project
+1. `npm install`
+2. `npm run start-dev`
 
