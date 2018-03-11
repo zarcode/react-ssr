@@ -1,5 +1,5 @@
 # react-ssr
-Server Side Rendering React/Redux Simple Example
+Server Side Rendered React/Redux on Express server
 
 ## Features
 - server side rendered react
